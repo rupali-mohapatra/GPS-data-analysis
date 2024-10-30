@@ -1,1 +1,2 @@
-# mobility-data-
+# mobility-data
+GPS (Global Positioning System) data is collected by GPS-enabled devices that receives signals from multiple satellites to find out the device’s exact/accurate location on Earth with timestamps. The GPS data has a wide range of usage in transportation and navigation (airplanes, ships, vehicles, etc), logistics fleet management, traffic management, surveying and mapping in urban development, fitness tracking devices etc. It is also very useful in geofencing, environmental monitoring and emergency services like locating people in accidents or distress, etc.
